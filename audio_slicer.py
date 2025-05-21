@@ -3,7 +3,7 @@ import math
 import os
 
 # Load MP3 file
-audio = AudioSegment.from_mp3("full.mp3")
+audio = AudioSegment.from_mp3("input/full.mp3")
 
 # Set chunk length in milliseconds (e.g., 30 seconds)
 chunk_length = 30 * 1000

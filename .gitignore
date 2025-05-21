@@ -1,2 +1,7 @@
 .env
 .venv
+.idea/
+__pycache__/
+input/
+output/
+output_chunks/
